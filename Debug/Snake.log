@@ -1,0 +1,38 @@
+﻿  Func.cpp
+  Source.cpp
+E:\IT\Step\Projects\Snake\Menu.h(21,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Menu.h(53,13): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Struct.h(121,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Struct.h(130,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Struct.h(132,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Struct.h(152,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Struct.h(387,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+E:\IT\Step\Projects\Snake\Source.cpp(24,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\IT\Step\Projects\Snake\Func.h(21,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Struct.h(270): message : выполняется компиляция ссылки на экземпляр шаблон функции "void addElem<point>(T *&,int &,T,int)"
+          with
+          [
+              T=point
+          ]
+E:\IT\Step\Projects\Snake\Func.h(26,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Struct.h(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Struct.h(334): message : выполняется компиляция ссылки на экземпляр шаблон функции "int lineSearch<point>(const T *,int,T,bool (__cdecl *)(T,T))"
+          with
+          [
+              T=point
+          ]
+E:\IT\Step\Projects\Snake\Struct.h(16,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Struct.h(365): message : выполняется компиляция ссылки на экземпляр шаблон функции "int kanibal<point>(const T *,int,T,bool (__cdecl *)(T,T,int))"
+          with
+          [
+              T=point
+          ]
+E:\IT\Step\Projects\Snake\Func.h(44,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Projects\Snake\Struct.h(370): message : выполняется компиляция ссылки на экземпляр шаблон функции "void delElem<point>(T *&,int &,int)"
+          with
+          [
+              T=point
+          ]
+E:\IT\Step\Projects\Snake\Func.h(48,29): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Snake.vcxproj -> E:\IT\Step\Projects\Snake\Debug\Snake.exe
